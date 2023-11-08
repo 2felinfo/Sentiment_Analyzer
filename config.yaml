@@ -1,0 +1,8 @@
+credentials:
+  names: ['Omar Ben Rhaiem']
+  usernames: ['omarbenrhaiem']
+  passwords: ['$2b$12$kc5BjGEIvFxEYungYi0VlORESuu3By1n.vNP2LaN6VPN0Fq.7a6xe'] # To be replaced with hashed passwords
+cookie:
+  name: 'some_cookie_name'
+  key: 'some_signature_key'
+  expiry_days: 30
