@@ -9,4 +9,3 @@ A sentiment and emotion analyzer tool used to extract emotions and sentiments fr
 3. Install required libraries:` pip install` -r requirements.txt"
 4. Run `nltk.download('en_core_web_sm')`
 5. Run the app using `streamlit run app.py`
-## Utilisation
